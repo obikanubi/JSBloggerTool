@@ -10,3 +10,9 @@ change.onclick = function(){
   var themeIndex = themeValue.options[themeValue.selectedIndex].value;
   theme.href = themeArray[themeIndex]
 }
+var checkLength = document.getElementById("checkLength")
+
+checkLength.onclick = function(){
+  var posts = document.getElementById("post").value.length
+  var postLength = document.getElementById("postLength").innerHTML = posts
+}
