@@ -16,3 +16,9 @@ post.onkeypress = function(){
   var posts = document.getElementById("post").value.length
   var postLength = document.getElementById("postLength").innerHTML = posts
 }
+
+var wordcount = document.getElementById("wordcount");
+
+wordcount.onclick = function(){
+  document.getElementById("count").innerHTML = document.getElementById("post").value.split(" ").length
+}

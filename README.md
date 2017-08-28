@@ -22,3 +22,7 @@ Tool a blogger can use to check the length of text.
 ### To use:
 1. Input text in text field
 2. View text length
+
+# Word Counter
+1. Click on "Word Counter" button
+2. View word count
