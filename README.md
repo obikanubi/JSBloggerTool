@@ -21,4 +21,4 @@ Tool a blogger can use to check the length of text.
 
 ### To use:
 1. Input text in text field
-2. Click on check length button
+2. View text length

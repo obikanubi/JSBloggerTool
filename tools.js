@@ -12,7 +12,7 @@ change.onclick = function(){
 }
 var checkLength = document.getElementById("checkLength")
 
-checkLength.onclick = function(){
+post.onkeypress = function(){
   var posts = document.getElementById("post").value.length
   var postLength = document.getElementById("postLength").innerHTML = posts
 }
