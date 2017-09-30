@@ -10,7 +10,7 @@ This is a simple tool that can help bloggers choose a theme for their blogs.
 * [Cyborg](https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cyborg/bootstrap.min.css)
 * [Darkly](https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/darkly/bootstrap.min.css)
 
-### To use:
+### Usage:
 
 1. Download files
 2. Open the "blog.html" file
@@ -18,11 +18,11 @@ This is a simple tool that can help bloggers choose a theme for their blogs.
 
 # String Length Checker
 Tool a blogger can use to check the length of text.
-
-### To use:
 1. Input text in text field
 2. View text length
 
 # Word Counter
 1. Click on "Word Counter" button
 2. View word count
+
+It's on jsfiddle: https://jsfiddle.net/8ggntoqm/
